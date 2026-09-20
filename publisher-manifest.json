@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d546fece31378b27f7b8f1b3",
+  "owner": "akmahkpc",
+  "repo": "page-a7c321c3c9a76c38bb513fe6",
+  "title": "Xlinkworld",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7c321c3c9a76c38bb513fe6",
+      "a": "Xlinkworld",
+      "b": "机场官网线路发布页",
+      "entity": "Xlinkworld",
+      "brand": "Xlinkworld",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3c91bf2fccdad385c5a367eca4f7c7cd0b2f536bc413ba3dd67d25d15400cdea",
+      "content": {
+        "primary_entity": "Xlinkworld",
+        "keyword1": "Xlinkworld",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，Xlinkworld 把多地区线路与流量套餐放在一起，让用户按使用强度挑版本。基础版月付 ¥15，含 100GB 流量与 3 台设备；旗舰版月付 ¥35，含 300GB 流量、5 台设备及 IPLC 专线游戏加速；团队版月付 ¥85，含 1000GB 流量与 20 台设备。年付分别按 ¥150、¥350、¥850 结算，订阅可导入 Clash、Shadowrocket、v2rayN 等常见客户端。",
+          "AI_HERO_SUBTITLE": "多档套餐，覆盖多端",
+          "AI_HERO_INTRO": "Xlinkworld 提供基础版、旗舰版与团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台。选择时先看日常用量，再按手机、电脑、平板数量决定版本，最后参照客户端文档导入订阅。",
+          "AI_VISUAL_TITLE": "挑一个合适的版本",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "支持订阅导入常用客户端",
+          "AI_FEATURES_TITLE": "使用前先看这三点",
+          "AI_FEATURES_INTRO": "把套餐、设备与订阅周期对齐，再开始配置。",
+          "AI_FEATURE_TITLE_1": "按流量挑选",
+          "AI_FEATURE_TEXT_1": "轻度浏览选基础版 100GB，追剧游戏选旗舰版 300GB，多设备共享选团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "按设备数准备",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，先数清手机电脑平板再下单。",
+          "AI_FEATURE_TITLE_3": "订阅周期怎么定",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期用更省。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器可按系统选 Clash、Shadowrocket、v2rayN、Stash 等客户端，再导入订阅地址。实际兼容以客户端说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付依次为 ¥150、¥350、¥850。先确认流量和设备数，再决定周期。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选服务、看要求、配订阅，一步步完成。",
+          "AI_STEP_TITLE_1": "挑选适合的套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和在线设备数，在基础版、旗舰版、团队版之间选一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统是否支持所选客户端，了解套餐的流量与设备上限。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "打开客户端添加订阅，按文档填写地址，保存后选择节点即可。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xlinkworld 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，100GB 流量、3 台设备；旗舰版 ¥35/月，300GB 流量、5 台设备并含 IPLC 专线游戏加速；团队版 ¥85/月，1000GB 流量、20 台设备。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台。超出限制时可关闭其他设备或升级套餐，团队版更适合多人共享场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于按十个月价格使用十二个月。按月付费更适合短周期使用。",
+          "AI_FAQ_QUESTION_4": "订阅如何在 Clash 或 Shadowrocket 中导入？",
+          "AI_FAQ_ANSWER_4": "在客户端配置页找到添加订阅的入口，粘贴订阅地址并保存，拉取节点后选择线路连接。不同客户端操作路径相近，以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟敏感的对战与实时应用。日常网页与视频，基础版普通线路节点池已可满足。",
+          "AI_CLOSING_TITLE": "选一档开始",
+          "AI_CLOSING_TEXT": "按流量与设备数挑好版本，导入订阅即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zzjiakaikeji.cn",
+    "host": "zzjiakaikeji.cn"
+  },
+  "file_hashes": {
+    "index.html": "6dcf5b46c214f7d1939df20336d3e5c31e85b8ee7a6acaaf5339fd20d8eefd20",
+    "sitemap.xml": "c1421dfd8a2cbffaa28724406e1715c4c39739ad4cc0a6f9da5bec39823d6ada",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fb373d3d2de9fe084c5957b2fd07b580b8de1ea354dfc2274efd507380a6a1b5",
+    "robots.txt": "168f12b8dba3396380867183f75f5bdde082eeb7b752499305ac4b8d7136c656",
+    "aa8b6d1c9e1dde942cdc0076fcc34ad1.txt": "5e033c4bfcba62683286112176e7035c47ab45ecb8a2fce6b16226561f212b9f"
+  },
+  "revision": "279cd883274c2807ea7aabcb64da96152d6dbab9a4d845b0c510169caa5dffdb"
+}
